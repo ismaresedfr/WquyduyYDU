@@ -12,7 +12,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           required-packages: |
             react-native
-            react-native-paper
             react-native-vector-icons
           optional-packages: |
             expo
